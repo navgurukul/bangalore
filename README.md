@@ -5,6 +5,6 @@
 - [List of Clubs](clubs.md)
 - [Schedule](schedule.md)
 
-Important Resources
+## Important Resources
 - [How to edit MarkDown File](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
