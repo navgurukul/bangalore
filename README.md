@@ -7,4 +7,4 @@
 
 ## Important Resources
 - [How to edit MarkDown File](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
+- [Progress Tracking](https://docs.google.com/spreadsheets/d/1YO-Ek6T_3UXTKevURQPYc7AUlaohOEiqgOtIhwRsFeE/edit#gid=0)
