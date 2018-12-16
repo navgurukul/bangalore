@@ -22,6 +22,7 @@
 - Anjali sain (Sapna D)
 - Pragti L
 - Pooja Mahanour
+- Shivani Chouhan
 
 ## Khusboo
 - Bindu
