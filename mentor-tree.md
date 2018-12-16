@@ -1,62 +1,62 @@
 ## Amar Shina
-Deepa Shina 
-Annu 
-Krishna
-Sonam Kumawatt
-Megha
+- Deepa Shina 
+- Annu 
+- Krishna
+- Sonam Kumawat
+- Megha
 
 ## Deepa Shina
-Kajal A
-Priyanka 
-Rupa (Sonam G,Swati joshi)
-Ravina
+- Kajal A
+- Priyanka 
+- Rupa (Sonam G,Swati joshi)
+- Ravina
 
 ## Annu
-Kanika
-Khusboo
-Lalita
-Rani
-Pooja sani
+- Kanika
+- Khusboo
+- Lalita
+- Rani
+- Pooja sani
 
 ## Krishna
-Anjali sain (Sapna D)
-Pragti L
-Pooja Mahanour
+- Anjali sain (Sapna D)
+- Pragti L
+- Pooja Mahanour
 
 ## Khusboo
-Bindu
-Katki
-Swati Singh
-Poonam
+- Bindu
+- Ketki
+- Swati Singh
+- Poonam
 
 ## Rani
-Deepa R
-Subhangi
-Anjali patel
-Neelam (Neha Ishrani)
+- Deepa R
+- Subhangi
+- Anjali patel
+- Neelam (Neha Ishrani)
 
 ## Pooja Saini
-Payal
-Sonal
-Muskan
-Teena
+- Payal
+- Sonal
+- Muskan
+- Teena
 
 ## Ravina
-Komal A
-Bulbul
-Venu
-Shweta
-Komal B (Jashoda)
+- Komal A
+- Bulbul
+- Venu
+- Shweta
+- Komal B (Jashoda)
 
 ## Kajal A
-Rashmi
-Zeba
-Priya M
+- Rashmi
+- Zeba
+- Priya M
 
 ## Sonam k
-Swati N
-Apeksha
+- Swati N
+- Apeksha
 
 ## Lalita
-Kajal sharma (Suhani)
-Shivani jaiswal (Pragti Rahul)
+- Kajal sharma (Suhani)
+- Shivani jaiswal (Pragti Rahul)
