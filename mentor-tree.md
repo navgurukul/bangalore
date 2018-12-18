@@ -8,7 +8,7 @@
 ## Deepa Shina
 - Kajal A
 - Priyanka 
-- Rupa (Sonam G,Swati joshi)
+- Rupa
 - Ravina
 
 ## Annu
@@ -69,3 +69,6 @@
 
 ## Venu
 - Sonam G
+
+## Rupa
+- Swati Joshi
