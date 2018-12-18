@@ -25,7 +25,6 @@
 - Shivani Chouhan
 
 ## Khusboo
-- Bindu
 - Ketki
 - Swati Singh
 - Shweta
@@ -58,7 +57,7 @@
 - Apeksha
 
 ## Lalita
-- Kajal sharma (Suhani)
+- Kajal sharma
 - Shivani jaiswal (Pragti Rahul)
 
 ## Bulbul
@@ -72,3 +71,6 @@
 
 ## Rupa
 - Swati Joshi
+
+## Kajal Sharma
+- Bindu
