@@ -28,7 +28,7 @@
 - Bindu
 - Ketki
 - Swati Singh
-- Poonam
+- Shweta
 
 ## Rani
 - Deepa R
@@ -46,7 +46,6 @@
 - Komal A
 - Bulbul
 - Venu
-- Shweta
 - Komal B (Jashoda)
 
 ## Kajal A
@@ -61,3 +60,12 @@
 ## Lalita
 - Kajal sharma (Suhani)
 - Shivani jaiswal (Pragti Rahul)
+
+## Bulbul
+- Poonam
+
+## Komal Ahire
+- Suhani
+
+## Venu
+- Sonam G
