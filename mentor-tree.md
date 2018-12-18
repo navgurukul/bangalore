@@ -25,9 +25,9 @@
 - Shivani Chouhan
 
 ## Khusboo
-- Ketki
 - Swati Singh
 - Shweta
+- Swati Joshi
 
 ## Rani
 - Deepa R
@@ -70,7 +70,7 @@
 - Sonam G
 
 ## Rupa
-- Swati Joshi
+- Ketki
 
 ## Kajal Sharma
 - Bindu
