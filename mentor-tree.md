@@ -8,7 +8,7 @@
 ## Deepa Shina
 - Kajal A
 - Swati Singh
-- Priyanka 
+- Priyanka
 - Rupa
 - Ravina
 
@@ -21,12 +21,13 @@
 
 ## Krishna
 - Anjali Sen (Sapna D)
-- Pragti L
+- Kajal sharma
 - Pooja Mahanour
 - Shivani Chouhan
 
 ## Khusboo
 - Shweta
+- Kajal sharma
 
 ## Swati Singh
 - Swati Joshi
@@ -59,17 +60,20 @@
 - Apeksha
 
 ## Lalita
-- Kajal sharma
-- Shivani jaiswal (Pragti Rahul)
+- Shivani Jaiswal
+
+## Pooja Mahanour
+- Pragti Rahul
+- Pragti L
 
 ## Bulbul
-- Poonam
-
-## Komal Ahire
 - Suhani
 
-## Venu
+## Komal Ahire
 - Sonam G
+
+## Venu
+- Poonam
 
 ## Raveena (One Week Probation)
 - Ketki
@@ -79,3 +83,4 @@
 
 ## Potential Mentors
 - Priyanka
+- Shivani Jaiswal
