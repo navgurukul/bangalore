@@ -27,7 +27,6 @@
 
 ## Khusboo
 - Shweta
-- Kajal sharma
 
 ## Swati Singh
 - Swati Joshi
