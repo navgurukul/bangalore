@@ -20,10 +20,11 @@
 - Pooja sani
 
 ## Krishna
-- Anjali Sen (Sapna D)
+- Anjali Sen
 - Pragti L
 - Pooja Mahanour
 - Shivani Chouhan
+- Kajal Sharma
 
 ## Khusboo
 - Shweta
@@ -47,7 +48,7 @@
 - Komal A
 - Bulbul
 - Venu
-- Komal B (Jashoda)
+- Komal B
 
 ## Kajal A
 - Rashmi
@@ -59,23 +60,32 @@
 - Apeksha
 
 ## Lalita
-- Kajal sharma
-- Shivani jaiswal (Pragti Rahul)
+- Shivani jaiswal
+
+## Pooja Mahanour
+- Pragti Rahul
+- Pragti L
 
 ## Bulbul
-- Poonam
-
-## Komal Ahire
 - Suhani
 
-## Venu
+## Komal Ahire
 - Sonam G
+
+## Venu
+- Poonam
+
+## Komal B
+Jashoda
 
 ## Raveena (One Week Probation)
 - Ketki
 
 ## Kajal Sharma
 - Bindu
+
+## Anjali Sen
+- Sapna D
 
 ## Potential Mentors
 - Priyanka
