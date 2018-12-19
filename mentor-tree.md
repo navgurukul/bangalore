@@ -74,7 +74,7 @@
 - Poonam
 
 ## Komal B
-Jashoda
+- Jashoda
 
 ## Raveena (One Week Probation)
 - Ketki
