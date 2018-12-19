@@ -7,6 +7,7 @@
 
 ## Deepa Shina
 - Kajal A
+- Swati Singh
 - Priyanka 
 - Rupa
 - Ravina
@@ -19,14 +20,15 @@
 - Pooja sani
 
 ## Krishna
-- Anjali sain (Sapna D)
+- Anjali Sen (Sapna D)
 - Pragti L
 - Pooja Mahanour
 - Shivani Chouhan
 
 ## Khusboo
-- Swati Singh
 - Shweta
+
+## Swati Singh
 - Swati Joshi
 
 ## Rani
@@ -38,7 +40,7 @@
 ## Pooja Saini
 - Payal
 - Sonal
-- Muskan
+- Muskaan
 - Teena
 
 ## Ravina
@@ -69,7 +71,7 @@
 ## Venu
 - Sonam G
 
-## Rupa
+## Raveena (One Week Probation)
 - Ketki
 
 ## Kajal Sharma
