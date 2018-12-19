@@ -28,6 +28,7 @@
 
 ## Khusboo
 - Shweta
+- Teena (ONE WEEK PROBATION)
 
 ## Swati Singh
 - Swati Joshi
@@ -40,9 +41,6 @@
 
 ## Pooja Saini
 - Payal
-- Sonal
-- Muskaan
-- Teena
 
 ## Ravina
 - Komal A
