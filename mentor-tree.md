@@ -3,7 +3,7 @@
 - Annu 
 - Krishna
 - Sonam Kumawat
-- Megha
+
 
 ## Deepa Shina
 - Kajal A
@@ -13,34 +13,33 @@
 - Ravina
 
 ## Annu
-- Kanika
-- Khusboo
+- khushboo
+- Pooja mahanour
 - Lalita
 - Rani
 - Pooja sani
 
 ## Krishna
-- Anjali Sen
-- Pragti L
-- Pooja Mahanour
-- Shivani Chouhan
-- Kajal Sharma
+- Pragti l
+- Pragti rahul
 
 ## Khusboo
 - Shweta
-- Teena (ONE WEEK PROBATION)
+- Kajal Sharma
+- Anjali sen
 
 ## Swati Singh
-- Swati Joshi
+- Neha Ishrani
 
 ## Rani
 - Deepa R
 - Subhangi
 - Anjali patel
-- Neelam (Neha Ishrani)
+- Swati joshi
 
 ## Pooja Saini
 - Payal
+- shivani Chouahn
 
 ## Ravina
 - Komal A
@@ -60,9 +59,6 @@
 ## Lalita
 - Shivani jaiswal
 
-## Pooja Mahanour
-- Pragti Rahul
-- Pragti L
 
 ## Bulbul
 - Suhani
@@ -70,16 +66,12 @@
 ## Komal Ahire
 - Sonam G
 
-## Venu
-- Poonam
 
 ## Komal B
 - Jashoda
 
-## Raveena (One Week Probation)
-- Ketki
 
-## Kajal Sharma
+## Venu
 - Bindu
 
 ## Anjali Sen
