@@ -27,15 +27,16 @@
 - Shweta
 - Kajal Sharma
 - Anjali sen
+- Swati joshi
 
 ## Swati Singh
 - Neha Ishrani
 
 ## Rani
-- Deepa R
 - Subhangi
 - Anjali patel
-- Swati joshi
+- Neelam 
+- Suhani
 
 ## Pooja Saini
 - Payal
@@ -50,7 +51,6 @@
 ## Kajal A
 - Rashmi
 - Zeba
-- Priya M
 
 ## Sonam k
 - Swati N
@@ -59,9 +59,6 @@
 ## Lalita
 - Shivani jaiswal
 
-
-## Bulbul
-- Suhani
 
 ## Komal Ahire
 - Sonam G
