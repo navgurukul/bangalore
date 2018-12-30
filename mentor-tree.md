@@ -28,7 +28,7 @@
 - Kajal Sharma
 - Anjali sen
 - Swati joshi
-- Neelam
+
 
 ## Swati Singh
 - Neha Ishrani
