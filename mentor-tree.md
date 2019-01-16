@@ -50,6 +50,7 @@
 
 ## Kajal A
 - Zeba
+- Bulbul
  
 ## Komal Ahire
 - Sonam G
