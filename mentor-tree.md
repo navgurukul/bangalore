@@ -1,73 +1,63 @@
-## Amar Shina
-- Deepa Shina 
+## Deepa Shina
 - Annu 
 - Krishna
 - Sonam Kumawat
-
-
-## Deepa Shina
-- Kajal A
-- Swati Singh
-- Priyanka 
+- kajal A
 - Rupa
-- Ravina
 
 ## Annu
 - khushboo
 - Pooja mahanour
 - Lalita
 - Rani
-- Pooja sani
+
 
 ## Krishna
-- Pragti l
-- Pragti rahul
+- Komal bhatt
+- Venu
 
-## Khusboo
+## Rani
 - Shweta
-- Kajal Sharma
 - Anjali sen
-- Swati joshi
-
+- Payal
+- Pooja S
+- Ravina
 
 ## Swati Singh
 - Neha Ishrani
 
-## Rani
+## Khushboo
 - Subhangi
 - Anjali patel
 - Neelam 
-- Suhani
+- Shivani Chouahn
+- Komal A
 
 ## Pooja Saini
-- Payal
-- shivani Chouahn
+- Pragati L
+- Pragati R
 
 ## Ravina
-- Komal A
-- Bulbul
-- Venu
-- Komal B
+- Priyenka
+- Swati S
+- Swati joshi
+- Kajal sharma
+- Ankita
 
 ## Kajal A
 - Rashmi
 - Zeba
 
-## Sonam k
-- Swati N
-- Apeksha
-
 ## Lalita
 - Shivani jaiswal
-
-
+- Bulbul
+ 
 ## Komal Ahire
 - Sonam G
 
-
 ## Komal B
-- Jashoda
-
+- Apeksha
+- Swati N
 
 ## Venu
 - Bindu
