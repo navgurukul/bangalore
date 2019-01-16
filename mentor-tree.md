@@ -29,7 +29,6 @@
 ## Khushboo
 - Subhangi
 - Anjali patel
-- Neelam 
 - Shivani Chouahn
 - Komal A
 
@@ -41,7 +40,7 @@
 - Priyenka
 - Swati S
 - Swati joshi
-- Kajal sharma
+- Priya M
 - Ankita
 
 ## Kajal A
