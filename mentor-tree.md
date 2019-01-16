@@ -1,27 +1,29 @@
 ## Deepa Shina
-- Annu 
-- Krishna
-- Sonam Kumawat
-- kajal A
-- Rupa
+- Annu (Abhishek)
+- Krishna (Abhishek)
+- Sonam Kumawat (Abhishek)
+- kajal A (Abhishek)
+- Rupa (Abhishek)
 
 ## Annu
-- khushboo
-- Pooja mahanour
+- Khushboo (Abhay)
 - Lalita
-- Rani
-
+- Rani (Abhay)
+- Pooja mahanour
+- Ravina
+- Rashmi (Shweta)
 
 ## Krishna
-- Komal bhatt
+- Komal Bhatt
 - Venu
+- Shivani Jaiswal
 
 ## Rani
 - Shweta
 - Anjali sen
 - Payal
 - Pooja S
-- Ravina
+- Swati S
 
 ## Swati Singh
 - Neha Ishrani
@@ -32,41 +34,30 @@
 - Shivani Chouahn
 - Komal A
 
-## Pooja Saini
+## Bulbul
 - Pragati L
+
+## Venu
 - Pragati R
 
 ## Ravina
-- Priyenka
-- Swati S
+- Priyanka
 - Swati joshi
 - Priya M
 - Ankita
+- Bindu
 
 ## Kajal A
-- Rashmi
 - Zeba
-
-## Lalita
-- Shivani jaiswal
-- Bulbul
  
 ## Komal Ahire
 - Sonam G
 
 ## Komal B
 - Apeksha
-- Swati N
-
-## Venu
-- Bindu
 
 ## Anjali Sen
 - Sapna D
 
 ## Apeksha
 - Jashoda
-
-## Potential Mentors
-- Priyanka
-- Shivani Jaiswal
