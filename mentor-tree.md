@@ -17,6 +17,7 @@
 - Komal Bhatt
 - Venu
 - Shivani Jaiswal
+- Priyanka
 
 ## Rani
 - Shweta
@@ -42,11 +43,11 @@
 - Pragati R
 
 ## Ravina
-- Priyanka
 - Swati joshi
 - Priya M
 - Ankita
 - Bindu
+- Swati N
 
 ## Kajal A
 - Zeba
