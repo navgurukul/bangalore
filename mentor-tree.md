@@ -65,6 +65,9 @@
 ## Anjali Sen
 - Sapna D
 
+## Apeksha
+- Jashoda
+
 ## Potential Mentors
 - Priyanka
 - Shivani Jaiswal
