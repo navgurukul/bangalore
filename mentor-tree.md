@@ -1,17 +1,17 @@
-## Deepa Shina
+## Deepa Sinha
 - Annu (Abhishek)
 - Krishna (Abhishek)
 - Sonam Kumawat (Abhishek)
-- kajal A (Abhishek)
+- Kajal A (Abhishek)
 - Rupa (Abhishek)
 
 ## Annu
 - Khushboo (Abhay)
-- Lalita
 - Rani (Abhay)
-- Pooja mahanour
-- Ravina
 - Rashmi (Shweta)
+- Deepa (Abhishek)
+- Pooja M
+- Ravina
 
 ## Krishna
 - Komal Bhatt
@@ -29,9 +29,10 @@
 - Neha Ishrani
 
 ## Khushboo
+- Lalita
 - Subhangi
 - Anjali patel
-- Shivani Chouahn
+- Shivani Chauhan
 - Komal A
 
 ## Bulbul
