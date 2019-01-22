@@ -3,7 +3,6 @@
 - Krishna (Abhishek)
 - Sonam Kumawat (Abhishek)
 - Kajal A (Abhishek)
-- Rupa (Abhishek)
 
 ## Annu
 - Khushboo (Abhay)
@@ -14,17 +13,19 @@
 - Ravina
 
 ## Krishna
-- Komal Bhatt
-- Venu
 - Shivani Jaiswal
-- Priyanka
+- Swati s
+- Shivani C
+- Anajli Sen
+- Twinkle
 
 ## Rani
-- Shweta
-- Anjali sen
-- Payal
 - Pooja S
-- Swati S
+- venu 
+- pooja m
+- lalita 
+- payal 
+- Sapna
 
 ## Swati Singh
 - Neha Ishrani
@@ -32,9 +33,10 @@
 ## Khushboo
 - Lalita
 - Subhangi
-- Anjali patel
-- Shivani Chauhan
 - Komal A
+- rupa
+- komal bhatt
+- 
 
 ## Bulbul
 - Pragati L
@@ -52,6 +54,7 @@
 ## Kajal A
 - Zeba
 - Bulbul
+- anjali patel
  
 ## Komal Ahire
 - Sonam G
@@ -64,3 +67,8 @@
 
 ## Apeksha
 - Jashoda
+
+## Pooja Mahanour
+- Sweta
+- priya vishawkarma
+
