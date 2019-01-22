@@ -1,3 +1,7 @@
+## Abhishek Gupta
+- Khusboo(Abhay)
+- Rani (Abhay)
+
 ## Deepa Sinha
 - Annu (Abhishek)
 - Krishna (Abhishek)
@@ -5,37 +9,34 @@
 - Kajal A (Abhishek)
 
 ## Annu
-- Khushboo (Abhay)
-- Rani (Abhay)
 - Rashmi (Shweta)
 - Deepa (Abhishek)
 - Ravina
+- Sapna v
+- Twinkle
 
 ## Krishna
 - Shivani Jaiswal
-- Swati s
+- Swati singh
 - Shivani C
 - Anajli Sen
-- Twinkle
 
 ## Rani
-- Pooja S
+- Pooja Sani
 - venu 
 - pooja m
 - lalita 
 - payal 
-- Sapna
 
 ## Swati Singh
 - Neha Ishrani
 
 ## Khushboo
-- Lalita
+- Priyanka
 - Subhangi
 - Komal A
 - rupa
-- komal bhatt
-- 
+- komal bhatt 
 
 ## Bulbul
 - Pragati L
