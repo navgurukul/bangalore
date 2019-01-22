@@ -26,7 +26,6 @@
 - venu 
 - pooja m
 - lalita 
-- payal 
 
 ## Swati Singh
 - Neha Ishrani
@@ -55,6 +54,7 @@
 - Zeba
 - Bulbul
 - anjali patel
+- payal
  
 ## Komal Ahire
 - Sonam G
