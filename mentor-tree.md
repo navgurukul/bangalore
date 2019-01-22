@@ -9,7 +9,6 @@
 - Rani (Abhay)
 - Rashmi (Shweta)
 - Deepa (Abhishek)
-- Pooja M
 - Ravina
 
 ## Krishna
