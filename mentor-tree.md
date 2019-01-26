@@ -17,7 +17,6 @@
 
 ## Krishna
 - Shivani Jaiswal
-- Swati singh
 - Shivani C
 - Anajli Sen
 
@@ -26,6 +25,7 @@
 - venu 
 - pooja m
 - lalita 
+- swati singh
 
 ## Swati Singh
 - Neha Ishrani
@@ -71,4 +71,7 @@
 ## Pooja Mahanour
 - Sweta
 - priya vishawkarma
+
+## Swati Singh
+- Kajal sharma 
 
