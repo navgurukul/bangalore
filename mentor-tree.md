@@ -29,6 +29,7 @@
 
 ## Swati Singh
 - Neha Ishrani
+- Kajal Sharma 
 
 ## Khushboo
 - Priyanka
@@ -72,6 +73,4 @@
 - Sweta
 - priya vishawkarma
 
-## Swati Singh
-- Kajal sharma 
 
