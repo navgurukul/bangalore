@@ -1,76 +1,71 @@
 ## Abhishek Gupta
-- Khusboo(Abhay)
 - Rani (Abhay)
 
-## Deepa Sinha
-- Annu (Abhishek)
-- Krishna (Abhishek)
+
+## Kajal A
 - Sonam Kumawat (Abhishek)
+- Deepa (Abhishek)
+- Priya vishawkarma
+- Sapna V
+- Rupa
+
+
+
+## Sonam Kumawat
+- Ravina
+- komal bhatt
 - Kajal A (Abhishek)
 
-## Annu
-- Rashmi (Shweta)
-- Deepa (Abhishek)
-- Ravina
-- Sapna v
-- Twinkle
-
-## Krishna
-- Shivani Jaiswal
-- Shivani C
-- Anajli Sen
 
 ## Rani
 - Pooja Sani
 - venu 
 - pooja m
-- lalita 
 - swati singh
 
+
+## Rupa
+- Twinkle
+
+
+## Priya V
+- Priyanka
+- Komal A
+
+
+## Sapna V
+- lalita 
+- Zeba
+- Subhangi
+
+
+ 
 ## Swati Singh
 - Neha Ishrani
 - Kajal Sharma 
 
-## Khushboo
-- Priyanka
-- Subhangi
-- Komal A
-- rupa
-- komal bhatt 
 
-## Bulbul
-- Pragati L
+## Pooja Mahanour
+- Rashmi 
+
 
 ## Venu
-- Pragati R
+- Pragati L
+
+
 
 ## Ravina
-- Swati joshi
+- Pragati R
 - Priya M
 - Ankita
-- Bindu
+
+
+
+## Ankita 
 - Swati N
-
-## Kajal A
-- Zeba
-- Bulbul
-- anjali patel
-- payal
- 
-## Komal Ahire
-- Sonam G
-
-## Komal B
 - Apeksha
-
-## Anjali Sen
 - Sapna D
+
 
 ## Apeksha
 - Jashoda
-
-## Pooja Mahanour
-- Sweta
-- priya vishawkarma
-
-
