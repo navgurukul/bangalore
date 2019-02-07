@@ -38,6 +38,8 @@
 ## Sapna V
 - Zeba
 - Subhangi
+- Apeksha
+
 
 
  
@@ -52,6 +54,7 @@
 
 ## Venu
 - Pragati L
+- Sapna D
 
 
 
@@ -64,8 +67,6 @@
 
 ## Ankita 
 - Swati N
-- Apeksha
-- Sapna D
 
 
 ## Apeksha
