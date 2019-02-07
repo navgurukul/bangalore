@@ -22,6 +22,8 @@
 - venu 
 - pooja m
 - swati singh
+- lalita 
+
 
 
 ## Rupa
@@ -34,7 +36,6 @@
 
 
 ## Sapna V
-- lalita 
 - Zeba
 - Subhangi
 
