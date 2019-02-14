@@ -12,8 +12,8 @@
 
 
 ## Sonam Kumawat
-- Ravina
-- komal bhatt
+- Twinkle
+- Priyanka
 - Kajal A (Abhishek)
 
 
@@ -27,16 +27,17 @@
 
 
 ## Rupa
-- Twinkle
+- Zeba
+- komal bhatt
+
 
 
 ## Priya V
-- Priyanka
+- Ravina
 - Komal A
 
 
 ## Sapna V
-- Zeba
 - Subhangi
 - Apeksha
 
@@ -49,7 +50,8 @@
 
 
 ## Pooja Mahanour
-- Rashmi 
+- Pragati R
+
 
 
 ## Venu
@@ -59,13 +61,16 @@
 
 
 ## Ravina
-- Pragati R
 - Priya M
 - Ankita
 
 
 
 ## Ankita 
+- Rashmi 
+
+
+## Neha
 - Swati N
 
 
