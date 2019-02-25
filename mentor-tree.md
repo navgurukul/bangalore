@@ -2,9 +2,8 @@
 
 
 ## Sonam Kumawat
-- Twinkle
-- Priyanka
 - Priya V
+- Krishna
 
 
 ## Pooja Saini
@@ -50,6 +49,11 @@
 ## Ankita 
 - Rashmi 
 - Sapna D
+
+## Krishna
+- Neelam
+- Twinkle
+
 
 
 ## Neha
