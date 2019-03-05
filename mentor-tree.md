@@ -8,15 +8,17 @@
 
 ## Pooja Saini
  - Zeba
+ - Kajal sharma
 
 
 ## Rupa
 - komal bhatt
 - Venu
+- Pooja M
 
 
 ## Priya V
-- Neha Ishrani
+- Apeksha
 - Sonam K
 
 
@@ -26,10 +28,10 @@
 - Ankita
 
 
-## Swati Singh
-- Kajal Sharma 
+## Swati Singh 
 - Ravina 
 - Divya
+- Komal A
 
 
 ## Venu
@@ -42,8 +44,9 @@
 - Swati Singh
 
 
-## Rashmi
-- Pragati R
+## Komal A
+- Neelam
+
 
 
 ## Ankita 
@@ -51,13 +54,15 @@
 - Sapna D
 
 ## Krishna
-- Neelam
+- subhangi
 - Twinkle
 
+## pragati L
+- pragati R
 
 
-## Neha
-- Swati N
+
+
 
 
 
