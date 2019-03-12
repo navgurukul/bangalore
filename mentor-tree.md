@@ -1,4 +1,4 @@
-## Abhishek Gupta
+
 
 
 ## Sonam Kumawat
@@ -9,6 +9,7 @@
 ## Pooja Saini
  - Apeksha
  - Kajal sharma
+ - Zeba
 
 
 ## Rupa
@@ -18,8 +19,9 @@
 
 
 ## Priya V
-- Zeba
+- Ravina
 - Sonam K
+- Komal A
 
 
 ## Divya
@@ -28,15 +30,13 @@
 - Ankita
 
 
-## Swati Singh 
-- Ravina 
+## Swati Singh
 - Divya
-- Komal A
 
 
 ## Venu
-- Pragati L
 - Rupa
+- shubangi
 
 
 ## Ravina
@@ -51,14 +51,9 @@
 
 ## Ankita 
 - Rashmi 
-- Sapna D
 
 ## Krishna
-- subhangi
 - Twinkle
-
-## pragati L
-- pragati R
 
 
 
