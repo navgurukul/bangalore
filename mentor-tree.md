@@ -1,5 +1,29 @@
+## Abhishek 
+- Shubangi
+- Zeba
+- Pooja Mahanor
 
 
+## Amar 
+- Rahul Joshi
+- Rupa
+- Sapna v
+- Ravina
+- Komal Bhatt
+
+## Rahul Joshi
+- Twinkle 
+- Neelam
+- Rashmi
+- Kajal Sharma
+
+## Sapna v
+- Pragati L
+- Pragati R
+
+## Komal Bhatt
+- Sunderesh
+- Priya Mishra
 
 ## Sonam Kumawat
 - Priya V
@@ -8,24 +32,20 @@
 
 ## Pooja Saini
  - Apeksha
- - Kajal sharma
- - Zeba
+ - Zeba(Sheet filling)
 
 
 ## Rupa
-- komal bhatt
 - Venu
-- Pooja M
+- Pooja M(Sheet Filling)
 
 
 ## Priya V
-- Ravina
 - Sonam K
 - Komal A
 
 
 ## Divya
-- Sapna V
 - Pooja Saini
 - Ankita
 
@@ -35,17 +55,15 @@
 
 
 ## Venu
-- Rupa
-- shubangi
+- shubangi(Sheet filling)
 - Priyanka Kumari
 
 
 ## Ravina
-- Priya M
 - Swati Singh
 
 
-## Komal A
+## Krishna
 - Neelam
 
 
@@ -53,8 +71,6 @@
 ## Ankita 
 - Rashmi 
 
-## Krishna
-- Twinkle
 
 
 
