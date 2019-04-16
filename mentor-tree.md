@@ -1,35 +1,38 @@
 ## Amar 
-- Rahul Joshi
-- Rupa
-- Ankita
-- Divya
-- Komal Bhatt
-- Sapna V
-
-## Divya
-- Ravina 
+- Venu
+- Swati
+- Krishna
+- Komal A
 - Sonam K
+
+## Krishna 
+- Divya
 - Sapna D
 
+## Divya 
+- Ravina 
+- Neha
 
-## Ankita
-- Priya V
-- Swati
+## Swati
+- Ankita
+- Pooja M
 
-## Sapna V
-- Krishna
-
-## Komal Bhatt
-- Komal A
+## Ravina
 - Priya Mishra
 
-## Rupa
+
+## Komal A
+- Komal Bhatt
+
+
+## Venu
+- Rupa
 - Pooja Saini
-- Venu
  
 
 ## Pooja Saini
 - Apeksha
+- Pragati L
 
 ## Rahul Joshi
 - Twinkle 
@@ -37,25 +40,19 @@
 - Rashmi
 - Kajal Sharma
 
-## Priya V
-- Pragati L
+
+## Konal Bhatt
 - Pragati R
 
 
 
-## Sonam Kumawat
-- Pooja M
-
-## Venu
+## Rupa
 - shubangi
 - Priyanka Kumari
 
 
 ## Twinkle
 - Zeba
-
-## Krishna 
-- Neha
 
 
 
