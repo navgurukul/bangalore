@@ -27,15 +27,14 @@
 ## Komal A
 - Shivani C
 
-## Twinkle 
-- Priyanka
+
 
 ## Swati 
 - Sonam G
 
 ## Divya
 - Kajal 
-- Shivani J
+- Prayanka 
 
 ## Ravina
 - Neha
@@ -43,7 +42,7 @@
 
 ## Rashmi
 - Anjali P
-
+- shivani J
 
 
 ## Pooja Saini
