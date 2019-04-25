@@ -61,7 +61,6 @@
 
 
 ## Twinkle
-- Zeba
 - Pragati L
 
 
