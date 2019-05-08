@@ -1,74 +1,22 @@
-## Amar 
-- Venu
-- Rupa
-- Pooja M
-- Swati Singh
-- Ravina 
 
-## Rahul
-- Divya
-- Komal Bhatt
-- Ankita
-- Pooja Saini
-- Twinkle 
+### Pooja S & Rani
+#- Venu - Komal A
+#- Rupa - Twinkle
+#- Pooja M - Shubhangi
 
-## Venu
-- Shubangi 
-- Komal A
-
-## Rupa
-- Rashmi
-
-
-## Pooja M
-- Zeba 
-
-
-## Komal A
-- Shivani C
-
-
-
-## Swati 
-- Sonam G
+### Rahul
+#- Swati Singh  - Priya m
+#- Ravina -  Neha
 
 ## Divya
-- Kajal 
-- Prayanka 
+#- Kajal S  - Sapna D
+#- Nilam  -  Anjali P
 
-## Ravina
-- Neha
+### Komal 
+#- Zeba  - Pragati L
+#- Priyanka  - Shivani C
 
-
-## Rashmi
-- Anjali P
-- shivani J
-
-
-## Pooja Saini
-- Apeksha
-- Neelam
-
-
-
-## Komal Bhatt
-- Pragati R
-
-
-## Ankita
-- Priya M
-- Bulbul
-
-
-## Twinkle
-- Pragati L
-
-
-## Kajal Zeba
-- Sapna D
-
-
-
-
-
+### Ankita
+#- Shivani J - Pragti R
+#- Rashmi - Bulbul , Sonam G
 
