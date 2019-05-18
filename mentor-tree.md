@@ -1,22 +1,24 @@
-
-## Pooja S & Rani
+Divakar
+## Pooja S , Rani , Divakar
 - Venu - Komal A
 - Rupa - Twinkle
 - Pooja M - Shubhangi
 
-## Rahul
+## Rahul , Pratush
 - Swati Singh  - Priya m
-- Ravina -  Neha
+- Ravina - Pagti R, Neha
 
-## Divya
+## Divya ,Kajal A
 - Kajal S  - Sapna D
 - Nilam  -  Anjali P
+- Sonam K
 
-## Komal 
+## Komal , Deepa
 - Zeba  - Pragati L
 - Priyanka  - Shivani C
+- Krishna
 
-## Ankita
-- Shivani J - Pragti R
+## Ankita , Annu
+- Shivani J - Anjali S
 - Rashmi - Bulbul , Sonam G
 
