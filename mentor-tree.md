@@ -1,10 +1,10 @@
 Divakar
-## Pooja S , Rani , Divakar
+## Pooja S , Rani , Pratush
 - Venu - Komal A
 - Rupa - Twinkle
 - Pooja M - Shubhangi
 
-## Rahul , Pratush
+## Rahul , Annu
 - Swati Singh  - Priya m
 - Ravina - Pagti R, Neha
 
@@ -13,12 +13,12 @@ Divakar
 - Nilam  -  Anjali P
 - Sonam K
 
-## Komal , Deepa
+## Komal , Divakar
 - Zeba  - Pragati L
 - Priyanka  - Shivani C
 - Krishna
 
-## Ankita , Annu
+## Ankita , Deepa
 - Shivani J - Anjali S
 - Rashmi - Bulbul , Sonam G
 
