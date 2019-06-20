@@ -4,10 +4,10 @@ Divakar
 - Rupa - priyanka
 - Pooja M - Shubhangi
 
-## Rahul , Pratush
+## Rahul , Pratyush
 
 - Swati Singh  - Priya m
-- Ravina - Pagti R, Neha
+- Ravina - Pragti R, Neha
 - Krishna - Shivani j
 
 ## Divya ,Kajal A
