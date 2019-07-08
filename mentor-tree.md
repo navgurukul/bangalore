@@ -10,7 +10,7 @@ Divakar
 - Ravina - Pragti R, Neha
 - Krishna - Shivani j
 
-## Divya ,Kajal A
+## Sapna V ,Kajal A
 - Kajal S  - Sapna D
 - Nilam  -  Anjali P
 
@@ -19,6 +19,6 @@ Divakar
 - Twinkle  - Shivani C,zeba
 
 ## Ankita , Annu
-- Anjali S 
-- Bulbul  
+- Anjali S - Kajal chouhan
+- Bulbul - Alka
 - sonam K - sonam G
