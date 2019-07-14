@@ -1,24 +1,20 @@
-Divakar
-## Pooja S , Rani , Diwakar
-- Venu - Komal A 
-- Rupa - priyanka
-- Pooja M - Shubhangi
+## Rahul
+Ravina – pragati r
+Krishna – Svani j
+Swati – Sapna d
 
-## Rahul , Pratyush
+## Komal
+Shweta – kajal ch
+Sivani ch
 
-- Swati Singh  - Priya m
-- Ravina - Pragti R, Neha
-- Krishna - Shivani j
+## Sapna v
+Rashmi – shubhangi
+Zeba – Anjali p
 
-## Sapna V ,Kajal A
-- Kajal S  - Sapna D
-- Nilam  -  Anjali P
+## Pooja
+Venu
+komal a
+pooja m
 
-## Komal , Deepa
-- Rashmi  - sweta
-- Twinkle  - Shivani C,zeba
-
-## Ankita , Annu
-- Anjali S - Kajal chouhan
-- Bulbul - Alka
-- sonam K - sonam G
+## Deepa 
+rupa – Anjali s
