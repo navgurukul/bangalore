@@ -1,4 +1,4 @@
-## Rahul And Pavan (Node js)
+## Rahul, Deepa and Pavan (Node js)
 Monu 
 
 Sapna v - Anjali p
@@ -11,7 +11,7 @@ Rupa - Sapna d
 
 Sonam k - Vandana
 
-## Rahul and Pavan (Web-scraping) 
+## Rahul, Kajal a and Pavan (Web-scraping) 
 Ravina - Pragati, Sonam g
 
 Nilam - Pratibha
