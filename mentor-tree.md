@@ -1,42 +1,30 @@
-## Rahul
-Ravina – pragati r
+## Rahul And Pavan
+## Node js
+Monu 
+Sapna v - Anjali p
+Komal b - Shweta, Shivani j
+Swati
+Rupa - Sapna d
+Sonam k - Vandana
 
-Krishna – Svani j
+## Rahul and Pavan
+## Web-scraping 
+Ravina - Pragati, Sonam g
+Nilam - Pratibha
+Rashmi - Kajal chouhan
+Zeba - Jaya
+Kajal s
 
-Swati – Sapna d
+## Amar, Diwakar, Pooja
+## React js
+Komal A
+Venu - Shivani ch
+Pooja m
+Twinkle - Priyanka
+Shubhangi
 
-## Komal
-Shweta – kajal ch
-
-Sivani ch
-
-## Sapna v
-Rashmi – shubhangi
-
-Zeba – Anjali p
-
-## Pooja
-Venu
-
-komal a
-
-pooja m
-
-## Deepa 
-rupa – Anjali s
-
-## Kajal a
-kajal s
-
-## Divakar 
-twinkle – priyanka
-
-## Pratyush
-sonam k – mishra
-
-## Ankita
-Bulbul – Alka
-
-Neha – Vandana
-
-Nilam
+## Ankita and Pratyush
+Bulbul - Alka
+Priya mishra
+Anjali sain
+Neha
