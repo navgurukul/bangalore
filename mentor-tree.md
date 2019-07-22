@@ -1,4 +1,4 @@
-## Rahul, Deepa and Pavan (Node js)
+## Rahul and Pavan (Node js)
 Monu 
 
 Sapna v - Anjali p
@@ -11,7 +11,7 @@ Rupa - Sapna d
 
 Sonam k - Vandana
 
-## Rahul, Kajal a and Pavan (Web-scraping) 
+## Rahul and Pavan (Web-scraping) 
 Ravina - Pragati, Sonam g
 
 Nilam - Pratibha
@@ -43,3 +43,6 @@ Priya mishra
 Anjali sain
 
 Neha
+
+# Deepa and Kajal a will take interview in every weekend 
+# Pratyush bhaiya will arainge moke interviews
