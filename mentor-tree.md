@@ -1,5 +1,4 @@
-## Rahul And Pavan
-## Node js
+## Rahul And Pavan (Node js)
 Monu 
 
 Sapna v - Anjali p
@@ -12,8 +11,7 @@ Rupa - Sapna d
 
 Sonam k - Vandana
 
-## Rahul and Pavan
-## Web-scraping 
+## Rahul and Pavan (Web-scraping) 
 Ravina - Pragati, Sonam g
 
 Nilam - Pratibha
@@ -24,8 +22,7 @@ Zeba - Jaya
 
 Kajal s
 
-## Amar, Diwakar, Pooja
-## React js
+## Amar, Diwakar, Pooja (React js)
 
 Komal A
 
