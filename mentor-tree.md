@@ -44,5 +44,3 @@ Anjali sain
 
 Neha
 
-# Deepa and Kajal a will take interview in every weekend 
-# Pratyush bhaiya will arainge moke interviews
