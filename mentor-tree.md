@@ -26,8 +26,6 @@ Komal A
 
 Venu - Shivani ch
 
-Pooja m
-
 Twinkle - Priyanka
 
 Shubhangi
