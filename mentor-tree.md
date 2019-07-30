@@ -1,13 +1,11 @@
 ## Rahul and Pavan (Node js)
-Monu
+Monu - Priya mishra
 
 Sapna v - Anjali p
 
 Komal b - Shweta, Shivani j
 
 Swati
-
-Rupa - Sapna d
 
 Sonam k - Vandana
 
@@ -20,7 +18,7 @@ Rashmi - Kajal chouhan
 
 Zeba - Jaya
 
-Kajal s
+Kajal s - Sapna D
 
 ## Amar, Diwakar, Pooja (React js)
 
@@ -37,8 +35,6 @@ Shubhangi
 ## Ankita and Pratyush
 
 Bulbul - Alka
-
-Priya mishra
 
 Anjali sain
 
