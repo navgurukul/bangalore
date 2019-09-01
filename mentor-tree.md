@@ -1,40 +1,45 @@
-## Rahul and Pavan (Node js)
-Monu - Priya mishra
+## Sanjeev (Node js)
 
-Sapna v - Anjali p
+Sonam k - Anjali Sen, Shiwani j.
 
-Komal b - Shweta, Shivani j
+Sapna v - Anjili Patil, Shiwani Chouhan, Bulbul.
 
-Swati
+Monu - Zeba, Kajal.
 
-Sonam k - Vandana
+Komal b - Swati, Pragati R, Rabina.
 
-## Rahul and Pavan (Web-scraping) 
-Ravina - Pragati, Sonam g
+    Swati - Neelam
+
+## Ankita and Pooja (Python students)
+
+Ravina - Sweta, Neha
+
+Sapna d - Gyaneswari
 
 Nilam - Pratibha
 
-Rashmi - Kajal chouhan
-
 Zeba - Jaya
 
-Kajal s - Sapna D
+Kajal s - Vandana
 
-## Amar, Diwakar, Pooja (React js)
+Shiwani Jaiswal -
+
+Anjali sen - Sakchi
+
+Anjali Patil - Sapna D
+
+Shiwani Chouhan - Priya Misra
+
+Bulbul - Alka 
+
+Neha - Rinki
+
+## Amar, Diwakar (React js)
 
 Komal A
 
-Venu - Shivani ch
+Venu
 
 Twinkle - Priyanka
 
 Shubhangi
-
-## Ankita and Pratyush
-
-Bulbul - Alka
-
-Anjali sain
-
-Neha
-
