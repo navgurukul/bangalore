@@ -8,7 +8,7 @@ Monu - Zeba, Kajal.
 
 Komal b - Swati, Pragati R, Rabina.
 
-    Swati - Neelam
+Swati - Neelam
 
 ## Ankita and Pooja (Python students)
 
