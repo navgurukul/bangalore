@@ -1,5 +1,5 @@
 
-## (Node js)
+## (Node.js)
 -- pawan
 # monu
 - bulbul
@@ -10,11 +10,10 @@
 # sapana v
 - zeba
 - shivani c
+- kajal s
 # sonam k
 - shivani j
-- neelam
-# Rahul 
-- kajal s
+# Rahul
 - shweta
 # swati
 - anjali p
@@ -25,7 +24,7 @@
 # shivani c - priya
 # shweta - ruchika
 # neha - Archana
-# Rashmi - sonam goud
+# Anjali p - Sonam goud
 
 ## Vivek,Mukesh,Pratyush (Java)
 -Alka,
@@ -37,8 +36,8 @@
 -Pratibha,
 -Gyaneshwari
 
-## Pawan,Amar,Diwakar (React js)
--Swati Singh,
--Komal A,
--Venu,
+## Pawan,Amar,Diwakar (React.js)
+# Komal A - neelam
+# Venu - swati
+# Rupa 
 # Twinkle - Priyanka``
