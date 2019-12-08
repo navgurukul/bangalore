@@ -40,6 +40,6 @@
 # Twinkle
     
    ***HTML/CSS,BOOTSTRAPE***
-    #Komal A - Neelam
-    -Venu - Shubhangi
+    -Komal A - Neelam, 
+    -Venu - Shubhangi,
     -Twinkle - Priyanka/Rupa
