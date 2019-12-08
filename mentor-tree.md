@@ -13,7 +13,7 @@
 - Ravina
 
 ## (Python)
-*** Priyanka-Ruchika
+*** Priyanka-Ruchika***
 # Ravina - Sakshi
 # shivani c - priya
 # neha - Anusha
