@@ -1,22 +1,19 @@
 
 ## (Node.js)
--- pawan
-# monu
-- bulbul
-- Rashmi
-# komal
-- anjali sen
+# Sapna,Rahul,Pawan
+-- Anjali Patil
+-- Aadil
+-- Krishna
+# Aadil
+- Zeba
+- Kajal
+# Komal/Anjali P
+- Anjali sen
 - Ravina
-# sapana v
-- zeba
-- shivani c
-- kajal s
-# sonam k
-- shivani j
-# Rahul
-- shweta
-# swati
-- anjali p
+- Bulbul
+
+
+
 
 ## python
 # bulbul - neha
