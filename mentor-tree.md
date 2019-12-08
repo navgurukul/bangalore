@@ -21,10 +21,9 @@
 # Shweta- Rinki
 # Sonam Goud-Harshita
 # Swati - Archana
-   
-   ## Web Scraping
-   # Bulbul-Neha
-   # Anjali Patil-Sonam G,Shweta
+# Web Scraping
+  -Bulbul-Neha
+  -Anjali Patil-Sonam G,Shweta
     
 ## Vivek,Mukesh,Pratyush (Java)
 - Alka
