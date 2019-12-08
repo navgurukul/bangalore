@@ -8,7 +8,7 @@
 # Aadil
 - Zeba
 - Kajal
-# Komal/Anjali P
+# Komal
 - Anjali sen
 - Ravina
 # Shivani Chauhan
@@ -22,7 +22,10 @@
 # Sonam Goud-Harshita
 # Swati - Archana
 
-
+   *** Web Scaping***
+   # Bulbul-Neha
+   # Anjali Patil-Sonam G,Shweta
+    
 ## Vivek,Mukesh,Pratyush (Java)
 - Alka
 -Sapana d,
@@ -38,6 +41,6 @@
 # Twinkle
     
    ***HTML/CSS,BOOTSTRAPE***
-    -Komal A - Neelam
+    #Komal A - Neelam
     -Venu - Shubhangi
     -Twinkle - Priyanka/Rupa
