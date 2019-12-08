@@ -12,7 +12,7 @@
 - Anjali sen
 - Ravina
 
-## python
+## (Python)
 # Priynka-Ruchika
 # Ravina - Sakshi
 # shivani c - priya
