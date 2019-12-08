@@ -1,9 +1,9 @@
 
 ## (Node.js)
 # Sapna,Rahul,Pawan
--- Anjali Patil
--- Aadil
--- Krishna
+- Anjali Patil
+- Aadil
+- Krishna
 # Aadil
 - Zeba
 - Kajal
