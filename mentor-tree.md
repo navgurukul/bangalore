@@ -11,16 +11,17 @@
 # Komal/Anjali P
 - Anjali sen
 - Ravina
+# Shivani Chauhan
+- Priya
 
 ## (Python)
 # Priyanka-Ruchika
 # Ravina - Sakshi
-# shivani c - priya
-# neha - Anusha
-# Rinki - Shweta
+# Neha - Anusha
+# Shweta- Rinki
 # Sonam Goud-Harshita
 # Swati - Archana
-# Anjali p - Sonam goud
+
 
 ## Vivek,Mukesh,Pratyush (Java)
 - Alka
@@ -36,7 +37,7 @@
 # Venu 
 # Twinkle
     
-    #  HTML/CSS,BOOTSTRAPE
-    #  Komal A - Neelam
-    #  Venu - Shubhangi
-    #  Twinkle - Priyanka/Rupa
+   ***HTML/CSS,BOOTSTRAPE***
+    -Komal A - Neelam
+    -Venu - Shubhangi
+    -Twinkle - Priyanka/Rupa
