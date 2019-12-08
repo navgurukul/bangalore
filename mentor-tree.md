@@ -22,8 +22,8 @@
 # Sonam Goud-Harshita
 # Swati - Archana
 # (Web Scraping)
-   Bulbul-Neha ,
-   Anjali Patil-Sonam G,Shweta
+   Bulbul-Shweta ,
+   Anjali Patil-Sonam G,Neha
     
 ## Vivek,Mukesh,Pratyush (Java)
 - Alka
