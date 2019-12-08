@@ -4,37 +4,39 @@
 - Anjali Patil
 - Aadil
 - Krishna
+- BulBul
 # Aadil
 - Zeba
 - Kajal
 # Komal/Anjali P
 - Anjali sen
 - Ravina
-- Bulbul
-
-
-
 
 ## python
-# bulbul - neha
-# Ravina - rinki
+# Priynka-Ruchika
+# Ravina - Sakshi
 # shivani c - priya
-# shweta - ruchika
-# neha - Archana
+# neha - Anusha
+# Rinki - Shweta
+# Sonam Goud-Harshita
+# Swati - Archana
 # Anjali p - Sonam goud
 
 ## Vivek,Mukesh,Pratyush (Java)
--Alka,
--sapana d,
+- Alka
+-Sapana d,
 -Vandana,
 -Shanti,
 -Pragti R,
--Sakshi,
 -Pratibha,
 -Gyaneshwari
 
-## Pawan,Amar,Diwakar (React.js)
-# Komal A - neelam
-# Venu - swati
-# Rupa 
-# Twinkle - Priyanka``
+## Amar,Diwakar (React.js)
+# Komal A
+# Venu 
+# Twinkle
+    
+    #  HTML/CSS,BOOTSTRAPE
+    #  Komal A - Neelam
+    #  Venu - Shubhangi
+    #  Twinkle - Priyanka/Rupa
