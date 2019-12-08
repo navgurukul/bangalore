@@ -13,14 +13,14 @@
 - Ravina
 
 ## (Python)
-# Priynka-Ruchika
-# Ravina - Sakshi
-# shivani c - priya
-# neha - Anusha
-# Rinki - Shweta
-# Sonam Goud-Harshita
-# Swati - Archana
-# Anjali p - Sonam goud
+    # Priynka-Ruchika
+    # Ravina - Sakshi
+    # shivani c - priya
+    # neha - Anusha
+    # Rinki - Shweta
+    # Sonam Goud-Harshita
+    # Swati - Archana
+    # Anjali p - Sonam goud
 
 ## Vivek,Mukesh,Pratyush (Java)
 - Alka
