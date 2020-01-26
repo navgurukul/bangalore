@@ -1,45 +1,33 @@
+### Interview Canp (Rahul joshi)
+- Zeba, Kajal, Anjali p, Anjali S, Bulbul, Aadil, Pooja M, Komal, Swati S, Rupa, Venu, Twinkle
 
-## (Node.js)
-# Sapna,Rahul,Pawan
-- Anjali Patil
-- Aadil
-- Krishna
-- BulBul
-# Aadil
-- Zeba
-- Kajal
-# Komal
-- Anjali sen
-- Ravina
-# Shivani Chauhan
-- Priya
+### Node.js (Not in Interview camp)
+- Priya Mishra, Yogesh, Aman, Neha
 
-## (Python)
-# Priyanka-Ruchika
-# Ravina - Sakshi
-# Neha - Anusha
-# Shweta- Rinki
-# Sonam Goud-Harshita
-# Swati - Archana
-# (Web Scraping)
-   Bulbul-Shweta ,
-   Anjali Patil-Sonam G,Neha
-    
-## Vivek,Mukesh,Pratyush (Java)
-- Alka
--Sapana d,
--Vandana,
--Shanti,
--Pragti R,
--Pratibha,
--Gyaneshwari
+### React.js (Not in Interview camp)
+- Priyanka, Nilam, Subhangi
 
-## Amar,Diwakar (React.js)
-# Komal A
-# Venu 
-# Twinkle
-    
-   ***HTML/CSS,BOOTSTRAPE***
-    -Komal A - Neelam, 
-     Venu - Shubhangi,
-    Twinkle - Priyanka/Rupa
+### Coding Camp
+- Rani, Rinki, Sandhiya, Sushma, Kritika, Durga, Saakshi, Harshita, Rabiya, Sudha, Jaya, Poonam
+
+### Abservation Girl
+- Neha New, Manjish, Ruchika, Archana, Shanti, Jay shree, Durga
+
+### Foundation Boot Camp
+-  Madhumati, Najeeba, Swati new, Halima, Khadija, Samea, Evanjaline, Sandhiya
+
+## Mentor Tree
+
+Zeba - Priya Mishra - Shushma
+Kajal - Durga
+Anjali P - Neha Israni
+Anjali S - Sakshi
+Bulbul - Sandhiya
+Aadil - Jaya
+Aman - Sudha
+Yogesh - Poonam
+Komal - Nilam - Rabiya
+Swati - Kritika 
+Rupa - Harshita
+Venu - Subhangi
+Twinkle - Priyanka
