@@ -13,7 +13,7 @@
 ### Java Camp
 - Shanti, Sapna, Pragati, Vandana, Pratibha, Alka, Nanu
 
-### Observation Girl (Vandana)
+### Observation Girl
 - Neha New, Manjish, Ruchika, Archana, Shanti, Jay shree, Durga
 
 ### Foundation Boot Camp
