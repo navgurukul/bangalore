@@ -19,15 +19,27 @@
 ## Mentor Tree
 
 Zeba - Priya Mishra - Shushma
+
 Kajal - Durga
+
 Anjali P - Neha Israni
+
 Anjali S - Sakshi
+
 Bulbul - Sandhiya
+
 Aadil - Jaya
+
 Aman - Sudha
+
 Yogesh - Poonam
+
 Komal - Nilam - Rabiya
-Swati - Kritika 
+
+Swati - Kritika
+
 Rupa - Harshita
+
 Venu - Subhangi
+
 Twinkle - Priyanka
