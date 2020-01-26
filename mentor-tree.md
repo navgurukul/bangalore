@@ -43,3 +43,7 @@ Rupa - Harshita
 Venu - Subhangi
 
 Twinkle - Priyanka
+
+Anusha - Rinki
+
+Neha - Rani
