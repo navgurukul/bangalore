@@ -10,6 +10,9 @@
 ### Coding Camp
 - Rani, Rinki, Sandhiya, Sushma, Kritika, Durga, Saakshi, Harshita, Rabiya, Sudha, Jaya, Poonam
 
+### Java Camp
+- Shanti, Sapna, Pragati, Vandana, Pratibha, Alka, Nanu
+
 ### Observation Girl (Vandana)
 - Neha New, Manjish, Ruchika, Archana, Shanti, Jay shree, Durga
 
