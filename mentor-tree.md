@@ -1,4 +1,4 @@
-### Interview Canp (Rahul joshi)
+### Interview Camp (Rahul joshi)
 - Zeba, Kajal, Anjali p, Anjali S, Bulbul, Aadil, Pooja M, Komal, Swati S, Rupa, Venu, Twinkle
 
 ### Node.js (Not in Interview camp)
@@ -50,3 +50,7 @@ Twinkle - Priyanka
 Anusha - Rinki
 
 Neha - Rani
+
+## English Mentor tree
+
+Apeksha - Manjish
