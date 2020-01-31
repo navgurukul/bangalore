@@ -34,7 +34,7 @@ Aman - Jaya, Neha Yadav
 
 Yogesh - Poonam
 
-Komal - Nilam 
+Komal Ahire - Nilam 
 
 Rupa - Harshita
 
