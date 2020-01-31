@@ -48,6 +48,8 @@ Swati Singh - Kritika, Ruchika
 
 Komal Bhatt - Manjish, Jai shree
 
+Ravina - Shanti
+
 ## English Mentor tree
 
 Alka - Sandhiya old 
