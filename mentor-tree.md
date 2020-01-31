@@ -46,14 +46,14 @@ Anusha - Rinki
 
 Swati Singh - Kritika, Ruchika
 
-Komal Bhatt - Manjish, Jai shree
+Komal Bhatt (English and coding both) - Manjish, Jai shree
 
 ## English Mentor tree
 
 Alka - Sandhiya old 
 
-Apeksha - Manjish
+Apeksha - Archana
 
 Sapna D - Ruchika
 
-Priya mishra - Archana, Sandhiya new
+Priya mishra - Sandhiya new
