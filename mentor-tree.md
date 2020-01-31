@@ -54,7 +54,7 @@ Alka - Sandhiya old
 
 Apeksha - Archana
 
-Sapna D - Ruchika
+Sapna D - Ruchika, Durga
 
 Priya mishra - Sandhiya new
 
