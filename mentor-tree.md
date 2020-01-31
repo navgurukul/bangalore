@@ -16,7 +16,7 @@
 ### Foundation Boot Camp
 -  Madhumati, Najeeba, Swati new, Halima, Khadija, Samea, Evanjaline, Sandhiya
 
-## Mentor Tree
+## Code Mentor Tree
 
 Zeba - Rabiya
 
