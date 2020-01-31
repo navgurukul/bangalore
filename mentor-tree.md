@@ -1,11 +1,11 @@
 ### Interview Camp (Rahul joshi)
-- Zeba, Kajal, Anjali p, Anjali S, Bulbul, Aadil, Pooja M, Komal ahire, Swati S, Rupa, Venu, Twinkle
+- Zeba, Kajal, Anjali p, Anjali S, Bulbul, Aadil, Pooja M, Komal ahire, Swati S, Rupa, Venu, Twinkle, Nilam
 
 ### Node.js (Not in Interview camp)
 - Priya Mishra, Yogesh, Aman, Neha
 
 ### React.js (Not in Interview camp)
-- Priyanka, Nilam, Subhangi
+- Priyanka, Subhangi
 
 ### Coding Camp
 - Rani, Rinki, Sandhiya, Sushma, Kritika, Durga, Saakshi, Harshita, Rabiya, Jaya, Poonam, Neha yadav, Manjish, Ruchika, Archana, Jay shree
