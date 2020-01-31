@@ -5,7 +5,7 @@
 - Priya Mishra, Yogesh, Aman, Neha
 
 ### React.js (Not in Interview camp)
-- Priyanka, Subhangi
+- Priyanka, Subhangi, Komal bhatt
 
 ### Coding Camp
 - Rani, Rinki, Sandhiya, Sushma, Kritika, Durga, Saakshi, Harshita, Rabiya, Jaya, Poonam, Neha yadav, Manjish, Ruchika, Archana, Jay shree
