@@ -1,5 +1,5 @@
 ### Interview Camp (Rahul joshi)
-- Zeba, Kajal, Anjali p, Anjali S, Bulbul, Aadil, Pooja M, Komal, Swati S, Rupa, Venu, Twinkle
+- Zeba, Kajal, Anjali p, Anjali S, Bulbul, Aadil, Pooja M, Komal ahire, Swati S, Rupa, Venu, Twinkle
 
 ### Node.js (Not in Interview camp)
 - Priya Mishra, Yogesh, Aman, Neha
