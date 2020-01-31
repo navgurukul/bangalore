@@ -11,7 +11,7 @@
 - Rani, Rinki, Sandhiya, Sushma, Kritika, Durga, Saakshi, Harshita, Rabiya, Jaya, Poonam, Neha yadav, Manjish, Ruchika, Archana, Jay shree
 
 ### Java Camp
-- Shanti, Sapna, Pragati, Vandana, Pratibha, Alka, Nanu, Shanti
+- Shanti, Sapna, Pragati, Vandana, Pratibha, Alka, Nanu
 
 ### Foundation Boot Camp
 -  Madhumati, Najeeba, Swati new, Halima, Khadija, Samea, Evanjaline, Sandhiya
