@@ -22,7 +22,7 @@ Zeba - Rabiya
 
 Kajal - Durga
 
-Anjali P - Neha Israni - Rani
+Anjali P - Neha Israni 
 
 Anjali S - Sakshi
 
@@ -45,6 +45,10 @@ Venu - Subhangi
 Twinkle - Priyanka
 
 Anusha - Rinki
+
+Neha Israni
+- Rani
+- Apeksha
 
 ## English Mentor tree
 
