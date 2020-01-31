@@ -8,10 +8,10 @@
 - Priyanka, Nilam, Subhangi
 
 ### Coding Camp
-- Rani, Rinki, Sandhiya, Sushma, Kritika, Durga, Saakshi, Harshita, Rabiya, Sudha, Jaya, Poonam, Neha New, Manjish, Ruchika, Archana, Shanti, Jay shree, Durga
+- Rani, Rinki, Sandhiya, Sushma, Kritika, Durga, Saakshi, Harshita, Rabiya, Jaya, Poonam, Neha yadav, Manjish, Ruchika, Archana, Jay shree
 
 ### Java Camp
-- Shanti, Sapna, Pragati, Vandana, Pratibha, Alka, Nanu
+- Shanti, Sapna, Pragati, Vandana, Pratibha, Alka, Nanu, Shanti
 
 ### Foundation Boot Camp
 -  Madhumati, Najeeba, Swati new, Halima, Khadija, Samea, Evanjaline, Sandhiya
@@ -20,23 +20,21 @@
 
 Zeba - Rabiya
 
-Kajal - Durga
-
-Anjali P - Neha Israni 
+Anjali P - Neha Israni - Rani, Apeksha
 
 Anjali S - Sakshi
 
 Bulbul - Sandhiya
 
+Kajal Sharma - Durga, Archana
+
 Aadil - Priya Mishra - Shushma
 
-Aman - Jaya
+Aman - Jaya, Neha Yadav
 
 Yogesh - Poonam
 
 Komal - Nilam 
-
-Swati - Kritika
 
 Rupa - Harshita
 
@@ -46,12 +44,14 @@ Twinkle - Priyanka
 
 Anusha - Rinki
 
-##### Neha Israni
-- Rani
-- Apeksha
+Swati Singh - Kritika, Ruchika
+
+Komal Bhatt - Manjish, Jai shree
 
 ## English Mentor tree
 
 Alka - Sandhiya new, Sandhiya old 
 
 Apeksha - Manjish
+
+Sapna D - Ruchika
