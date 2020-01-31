@@ -50,8 +50,10 @@ Komal Bhatt - Manjish, Jai shree
 
 ## English Mentor tree
 
-Alka - Sandhiya new, Sandhiya old 
+Alka - Sandhiya old 
 
 Apeksha - Manjish
 
 Sapna D - Ruchika
+
+Priya mishra - Archana, Sandhiya new
