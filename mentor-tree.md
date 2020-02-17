@@ -8,7 +8,7 @@
 - Priyanka, Subhangi, Komal bhatt, Rashmi
 
 ### Coding Camp
-- Rinki, Sandhiya,  Kritika, Durga, Saakshi, Harshita, Rabiya, Poonam, Jay shree, Khadija, Evanjaline, Najeeba, Halima
+- Rinki, Sandhiya,  Kritika, Durga, Saakshi, Harshita, Rabiya, Poonam, Jay shree, Khadija, Evanjaline, Najeeba, Halima,Madhumati, New Swati 
 
 
 ### Java Camp
