@@ -5,59 +5,78 @@
 - Priya Mishra, Yogesh, Aman, Neha
 
 ### React.js (Not in Interview camp)
-- Priyanka, Subhangi, Komal bhatt
+- Priyanka, Subhangi, Komal bhatt, Rashmi
 
 ### Coding Camp
-- Rani, Rinki, Sandhiya, Sushma, Kritika, Durga, Saakshi, Harshita, Rabiya, Jaya, Poonam, Neha yadav, Manjish, Ruchika, Archana, Jay shree
+- Rinki, Sandhiya,  Kritika, Durga, Saakshi, Harshita, Rabiya, Poonam, Jay shree, Khadija, Evanjaline, Najeeba, Halima
+
 
 ### Java Camp
 - Shanti, Sapna, Pragati, Vandana, Pratibha, Alka, Nanu
 
+
 ### Foundation Boot Camp
--  Madhumati, Najeeba, Swati new, Halima, Khadija, Samea, Evanjaline, Sandhiya
+- Sandhiya,   Rani new,  Isha,  Salomi,  yesashavi yadav
+
 
 ## Code Mentor Tree
 
 Zeba - Rabiya
 
-Anjali P - Neha Israni - Rani, Apeksha
+Kajal Sharma - Durga
 
-Anjali S - Sakshi
+Aadil - Aman
 
-Bulbul - Sandhiya
+Aman -  Priya Mishra 
 
-Kajal Sharma - Durga, Archana
+Yogesh - Poonam 
 
-Aadil - Priya Mishra - Shushma
-
-Aman - Jaya, Neha Yadav
-
-Yogesh - Poonam
-
-Komal Ahire - Nilam 
-
-Rupa - Harshita
+Komal Ahire - Rashmi
 
 Venu - Subhangi
 
-Twinkle - Priyanka
+Twinkle -  Khadija
 
-Anusha - Rinki
+Swati Singh - Sandhiya
 
-Swati Singh - Kritika, Ruchika
+Rashmi - Samea , Neha Israni - Rani
 
-Komal Bhatt - Manjish, Jai shree
+Subhangi - Evanjaline
 
-Ravina - Shanti
+Pooja - Najeeba
+
+Neha - Halima
+
+Priya mishra -Sakshi
+
+Apeksha - Kritika
+
+Neelam -  Apeksha
+
+Sapna - Shanti
+
+Pragati - Nanu
+
+Vandana - Alka
+
+Rinki - New Swati 
+
+Harshita - Madhumati
+
+Komal Bhatt - Harshita , Rinki
+
+
 
 ## English Mentor tree
 
-Alka - Sandhiya old 
+Alka - Sandhiya old
 
-Apeksha - Archana
+Apeksha - Shanti, Rinki
 
-Sapna D - Ruchika, Durga
+Sapna D - Durga
 
-Priya mishra - Sandhiya new
+Priya mishra - Sandhiya new 
 
-Komal Bhatt - Manjish, Jai shree
+
+
+
