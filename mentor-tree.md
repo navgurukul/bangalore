@@ -1,14 +1,14 @@
 ### Interview Camp (Rahul joshi)
-- Zeba, Kajal, Anjali p, Anjali S, Bulbul, Aadil, Pooja M, Komal ahire, Swati S, Rupa, Venu, Twinkle, Nilam
+- Zeba, Kajal, Aadil, Pooja M, Komal ahire, Venu, Twinkle 
 
 ### Node.js (Not in Interview camp)
-- Priya Mishra, Yogesh, Aman, Neha
+- Priya Mishra, Yogesh, Aman, Neha , Rashmi
 
 ### React.js (Not in Interview camp)
-- Priyanka, Subhangi, Komal bhatt, Rashmi
+- Priyanka, Subhangi, 
 
 ### Coding Camp
-- Rinki, Sandhiya,  Kritika, Durga, Saakshi, Harshita, Rabiya, Poonam, Jay shree, Khadija, Evanjaline, Najeeba, Halima,Madhumati, New Swati 
+- Rinki, Sandhya,  Kritika, Durga, Saakshi, Harshita, Rabiya, Poonam, Jayshree, Evanjaline, Najeeba, Halima,Madhumati, New Swati, Rani new, Salomi, new Sandhiya,jaya 
 
 
 ### Java Camp
@@ -16,43 +16,37 @@
 
 
 ### Foundation Boot Camp
-- Sandhiya,   Rani new,  Isha,  Salomi,  yesashavi yadav
+- neha yadav, yesashavi, manjish, Rupali, Praveen, Zeenat, Sharmistha, Sana
 
 
 ## Code Mentor Tree
 
-Zeba - Rabiya
+Zeba - Rabiya , Rashmi
 
 Kajal Sharma - Durga
 
-Aadil - Aman
+Durga - Isha
 
-Aman -  Priya Mishra 
+Aadil - Aman, Priya Mishra  
 
-Yogesh - Poonam 
+Yogesh - Poonam , Harshita
 
-Komal Ahire - Rashmi
+Komal Ahire - Old Sandhiya
 
 Venu - Subhangi
 
-Twinkle -  Khadija
+Twinkle -  Salomi
 
-Swati Singh - Sandhiya
+Rashmi - Neha Israni, Rinki
 
-Rashmi - Samea , Neha Israni - Rani
-
-Subhangi - Evanjaline
+Subhangi - Evanjaline, New Sandhiya
 
 Pooja - Najeeba
 
 Neha - Halima
 
-Priya mishra -Sakshi
-
-Apeksha - Kritika
-
-Neelam -  Apeksha
-
+Priya Mishra - New Rani
+ 
 Sapna - Shanti
 
 Pragati - Nanu
@@ -63,17 +57,17 @@ Rinki - New Swati
 
 Harshita - Madhumati
 
-Komal Bhatt - Harshita , Rinki
+Komal Bhatt -  Apeksha
 
 
 
 ## English Mentor tree
 
-Alka - Sandhiya old
+Alka - Old Sandhya
 
 Apeksha - Shanti, Rinki
 
-Sapna D - Durga
+Madhumati - Durga
 
 Priya mishra - Sandhiya new 
 
