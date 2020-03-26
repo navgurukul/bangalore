@@ -8,7 +8,7 @@
 - Priyanka, Subhangi, 
 
 ### Coding Camp
-- Rinki, Sandhya,  Kritika, Durga, Harshita, Rabiya, Poonam, Jayshree, Evanjaline, Madhumati, New Swati,New Rani , Salomi, new Sandhiya,jaya ,Praveen ,Shaanaaz, Manisha,Rupali, Sana, Zeenat,Sharmistha.Soniya , Sabana
+- Rinki, Sandhya,  Kritika, Durga, Harshita, Rabiya, Poonam, Jayshree, Evanjaline, Madhumati, New Swati,New Rani , Salomi, new Sandhya,jaya ,Praveen ,Shahnaaz, Manisha,Rupali, Sana, Zeenat,Sarmistha,Soniya , Sabana,Yashshwi
 
 
 ### Java Camp
@@ -16,7 +16,7 @@
 
 
 ### Foundation Boot Camp
-- neha yadav, yesashavi, manjish ,  
+- neha yadav, , manjish ,  
 
 ## Code Mentor Tree
 
@@ -28,7 +28,7 @@ Aadil - Priya Mishra,Rinki
 
 Poonam -Soniya
 
-Komal Ahire - Sharmistha
+Komal Ahire - Sarmistha
 
 Venu - Subhangi
 
@@ -38,11 +38,11 @@ Rashmi - Neha Israni
 
 Subhangi - Evanjaline, New Sandhiya
 
-Pooja - Rupali
+Pooja - Rupali,yasashavi
 
 Neha - Sabana,New Swati 
 
-Priya Mishra - New Rani , Shaanaaz
+Priya Mishra - New Rani , Shahnaaz
 
 Sunil - Alka
 
