@@ -8,7 +8,7 @@
 - Priyanka, Subhangi, 
 
 ### Coding Camp
-- Rinki, Sandhya,  Kritika, Durga, Harshita, Rabiya, Poonam, Jayshree, Evanjaline, Najeeba, Halima,Madhumati, New Swati,New Rani , Salomi, new Sandhiya,jaya ,Praveen ,Shaanaaz, Manisha,Rupali, Sana, Zeenat,Sharmistha.
+- Rinki, Sandhya,  Kritika, Durga, Harshita, Rabiya, Poonam, Jayshree, Evanjaline, Madhumati, New Swati,New Rani , Salomi, new Sandhiya,jaya ,Praveen ,Shaanaaz, Manisha,Rupali, Sana, Zeenat,Sharmistha.Soniya , Sabana
 
 
 ### Java Camp
@@ -16,77 +16,56 @@
 
 
 ### Foundation Boot Camp
-- neha yadav, yesashavi, manjish, Sabana ,Soniya   
+- neha yadav, yesashavi, manjish ,  
 
 ## Code Mentor Tree
 
 Zeba - Rabiya , Rashmi
 
-Kajal Sharma - Durga , Praveen
+Kajal Sharma -  Praveen
 
-Durga - Isha
+Aadil - Priya Mishra,Rinki  
 
-Isha -  Zeenat
+Poonam -Soniya
 
-Aadil - Aman, Priya Mishra  
-
-Yogesh - Poonam , Harshita
-
-Poonam - Salomi
-
-Komal Ahire - Old Sandhiya
+Komal Ahire - Sharmistha
 
 Venu - Subhangi
 
-Twinkle - Najeeba
+Twinkle - Poonam , Harshita
 
-Rashmi - Neha Israni, Rinki
+Rashmi - Neha Israni
 
 Subhangi - Evanjaline, New Sandhiya
 
-Evanjaline - Sana
-
 Pooja - Rupali
 
-Neha - Halima
+Neha - Sabana,New Swati 
 
 Priya Mishra - New Rani , Shaanaaz
- 
-Sapna - Shanti
-
-Pragati - Nanu
 
 Sunil - Alka
 
-Rinki - New Swati 
+Rinki -  Old Sandhiya
 
-Harshita - Madhumati 
-
-Madhumati -Sharmistha
+Harshita -  Sana
 
 Komal Bhatt -  Apeksha
 
-Apeksha - Manisha
+Apeksha -Zeenat
 
 
 
 ## English Mentor tree
 
-Vandana - Sabana
 
-Nanu - Zeenat
-
-Harshita - Soniya 
-
-Salomi - Praveen 
+Harshita - Soniya ,Sabana
 
 Evanjaline - New Rani
 
-Apeksha - Shanti, Rinki
+Apeksha - Rinki,Praveen 
 
-Madhumati - Durga
-
-Priya mishra - Sandhiya new 
+Priya mishra - Sandhiya new ,Zeenat
 
 
 
