@@ -1,71 +1,70 @@
 ### Interview Camp (Rahul joshi)
-- Zeba, Kajal, Aadil, Pooja M, Komal ahire, Venu, Twinkle 
+
+- Zeba, Kajal, Aadil, Pooja M, Komal ahire, Venu, Twinkle ,Priya Mishra
 
 ### Node.js (Not in Interview camp)
-- Priya Mishra, Yogesh, Aman, Neha , Rashmi
+
+, Yogesh, Aman, Neha , Rashmi
 
 ### React.js (Not in Interview camp)
-- Priyanka, Subhangi, 
+
+- Priyanka, Shubhangi, 
 
 ### Coding Camp
-- Rinki, Sandhya,  Kritika, Durga, Harshita, Rabiya, Poonam, Jayshree, Evanjaline, Madhumati, New Swati,New Rani , Salomi, new Sandhya,jaya ,Praveen ,Shahnaaz, Manisha,Rupali, Sana, Zeenat,Sarmistha,Soniya , Sabana,Yashshwi
+
+- Rinki, Sandhya, Kritika, Durga, Harshita, Rabiya, Poonam, Jayshree, Evanjaline, Madhumati, Swati,New Rani , Salomi, new Sandhya,jaya ,Praveen ,Shahnaaz, Manisha,Rupali, Sana, Zeenat,Sarmistha,Soniya , Sabana,Yashshwi, New Shubhangi 
 
 
 ### Java Camp
+
 - Shanti, Sapna, Pragati, Vandana, Pratibha, Alka, Nanu
 
 
 ### Foundation Boot Camp
-- neha yadav, , manjish , New Subhangi 
+
+- neha yadav, , manjish 
 
 ## Code Mentor Tree
 
-Zeba - Rabiya , Rashmi
+Sunil :- Alka , Harshita , New Shubhangi 
 
-Kajal Sharma -  Praveen
+Harshita :- Rabiya
 
-Aadil - Priya Mishra,Rinki  
+Shweta :- Rinki , Swati ,Sabana
 
-Poonam -Soniya
+Rinki :- Sarmistha
 
-Komal Ahire - Sarmistha
+Anurag :- Poonam , Sana ,
 
-Venu - Subhangi
+Poonam :- Praveen
 
-Twinkle - Poonam , Harshita
+Sanjeev :- Apeksha ,Rupali
 
-Rashmi - Neha Israni
+Apeksha :- New Rani
 
-Subhangi - Evanjaline, New Sandhiya
+Ravina :- Sandhya , New Sandhya , Soniya
 
-Pooja - Rupali,yasashavi
+Neha :- Zeenat
 
-Neha - Sabana,New Swati 
+Priya Mishra :- Shahnaaz
 
-Priya Mishra - New Rani , Shahnaaz
+Rashmi :- Yashshwi
 
-Sunil - Alka
+Shubhangi :- Evanjaline
 
-Rinki -  Old Sandhiya
+Venu :- Shubhangi
 
-Harshita -  Sana
-
-Komal Bhatt -  Apeksha
-
-Apeksha -Zeenat
+Aadil :-    Neha Israni
 
 
 
-## English Mentor tree
 
 
-Harshita - Soniya ,Sabana
 
-Evanjaline - New Rani
 
-Apeksha - Rinki,Praveen 
 
-Priya mishra - Sandhiya new ,Zeenat
+
+
 
 
 
