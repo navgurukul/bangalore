@@ -1,18 +1,14 @@
 ### Interview Camp (Rahul joshi)
 
-- Zeba, Kajal, Aadil, Pooja M, Komal ahire, Venu, Twinkle ,Priya Mishra
+- Zeba, Kajal, Pooja M, Komal ahire, Venu ,Priya Mishra,Shubhangi, Rashmi
 
 ### Node.js (Not in Interview camp)
 
-, Yogesh, Aman, Neha , Rashmi
-
-### React.js (Not in Interview camp)
-
-- Priyanka, Shubhangi, 
+ - Neha 
 
 ### Coding Camp
 
-- Rinki, Sandhya, Kritika, Durga, Harshita, Rabiya, Poonam, Jayshree, Evanjaline, Madhumati, Swati,New Rani , Salomi, new Sandhya,jaya ,Praveen ,Shahnaaz, Manisha,Rupali, Sana, Zeenat,Sarmistha,Soniya , Sabana,Yashshwi, New Shubhangi 
+- Rinki, Sandhya, Kritika, Durga, Harshita, Rabiya, Poonam, Jayshree, Evanjaline, Madhumati, Swati,New Rani , Salomi, new Sandhya,jaya ,Praveen ,Shahnaaz, Manisha,Rupali, Sana, Zeenat,Sarmistha,Soniya , Sabana,Yashshwi, New Shubhangi ,Isha
 
 
 ### Java Camp
@@ -26,35 +22,43 @@
 
 ## Code Mentor Tree
 
-Sunil :- Alka , Harshita , New Shubhangi 
+Zeba - Sarmistha
+
+Kajal - New Sandhya
+
+Pooja M - Isha
+
+Komal ahire -  Rinki
+
+Venu - Apeksha 
+
+Sunil :- Alka , Harshita 
 
 Harshita :- Rabiya
 
-Shweta :- Rinki , Swati ,Sabana
+Shweta :- Sabana ,Rupali
 
-Rinki :- Sarmistha
+Rinki :- New Shubhangi 
 
-Anurag :- Poonam , Sana ,
+Anurag :- Poonam ,Swati  
 
 Poonam :- Praveen
 
-Sanjeev :- Apeksha ,Rupali
+Sanjeev :- Salomi
 
-Apeksha :- New Rani
+Apeksha :- Zeenat
 
-Ravina :- Sandhya , New Sandhya , Soniya
+Ravina :- Sandhya  , Soniya
 
-Neha :- Zeenat
+Neha :-  New Rani 
 
-Priya Mishra :- Shahnaaz
+Priya Mishra :- Shahnaaz, Sana
 
 Rashmi :- Yashshwi
 
 Shubhangi :- Evanjaline
 
-Venu :- Shubhangi
-
-Aadil :-    Neha Israni
+Aadil :-  Neha Israni
 
 
 
