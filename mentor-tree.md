@@ -5,6 +5,7 @@
 ### Node.js (Not in Interview camp)
 
  - Neha 
+ 
 
 ### Coding Camp
 
@@ -26,7 +27,9 @@ Zeba - Sarmistha
 
 Kajal - New Sandhya
 
-Pooja M - Isha
+Pooja M -  Poonam
+
+Twinkle - Isha
 
 Komal ahire -  Rinki
 
@@ -40,7 +43,7 @@ Shweta :- Sabana ,Rupali
 
 Rinki :- New Shubhangi 
 
-Anurag :- Poonam ,Swati  
+Anurag :- Swati  
 
 Poonam :- Praveen
 
@@ -59,6 +62,8 @@ Rashmi :- Yashshwi
 Shubhangi :- Evanjaline
 
 Aadil :-  Neha Israni
+
+
 
 
 
