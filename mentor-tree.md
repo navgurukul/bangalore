@@ -63,8 +63,11 @@ Shubhangi :- Evanjaline
 
 Aadil :-  Neha Israni
 
+### English mentor
 
+Rashmi - New Sandhya
 
+Salomi -  Zeenat
 
 
 
