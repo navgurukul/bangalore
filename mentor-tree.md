@@ -25,37 +25,37 @@
 
 Zeba - Sarmistha
 
-Kajal - New Sandhya
+Kajal -  Isha
 
 Pooja M -  Poonam
 
-Twinkle - Isha
+Twinkle -   Apeksha 
 
 Komal ahire -  Rinki
 
-Venu - Apeksha 
+Venu -  Harshita
 
-Sunil :- Alka , Harshita 
+Sunil :- Alka , New Sandhya 
 
-Harshita :- Rabiya
+Harshita :-  Soniya
 
 Shweta :- Sabana ,Rupali
 
 Rinki :- New Shubhangi 
 
-Anurag :- Swati  
+Anurag :- Swati, New Rani 
 
-Poonam :- Praveen
+Poonam :- Salomi 
 
-Sanjeev :- Salomi
+Sanjeev :-  Shahnaaz 
 
-Apeksha :- Zeenat
+Apeksha :- Rabiya
 
-Ravina :- Sandhya  , Soniya
+Ravina :- Sandhya, Zeenat 
 
-Neha :-  New Rani 
+Neha :- Praveen 
 
-Priya Mishra :- Shahnaaz, Sana
+Priya Mishra :- Sana
 
 Rashmi :- Yashshwi
 
@@ -67,7 +67,7 @@ Aadil :-  Neha Israni
 
 Rashmi - New Sandhya
 
-Salomi -  Zeenat
+Evanjaline -  Zeenat
 
 
 
