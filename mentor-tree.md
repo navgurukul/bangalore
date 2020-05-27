@@ -23,23 +23,25 @@
 
 ## Code Mentor Tree
 
-Zeba - Sarmistha
+Zeba -  Isha 
 
-Kajal -  Isha
+Kajal - , Harshita
 
-Pooja M -  Poonam
+Pooja M - Sarmistha 
 
 Twinkle -   Apeksha 
 
 Komal ahire -  Rinki
 
-Venu -  Harshita
+Venu -   Poonam
 
-Sunil :- Alka , New Sandhya 
+Sunil :- Alka ,old Sandhya 
 
-Harshita :-  Soniya
+Harshita :- Zeenat
 
-Shweta :- Sabana ,Rupali
+Shweta :- Sabana ,Rabiya
+
+Apeksha :- Rupali
 
 Rinki :- New Shubhangi 
 
@@ -47,11 +49,9 @@ Anurag :- Swati, New Rani
 
 Poonam :- Salomi 
 
-Sanjeev :-  Shahnaaz 
+Sanjeev :-  Shahnaaz, 
 
-Apeksha :- Rabiya
-
-Ravina :- Sandhya, Zeenat 
+Ravina :- New Sandhya, Soniya
 
 Neha :- Praveen 
 
@@ -68,6 +68,10 @@ Aadil :-  Neha Israni
 Rashmi - New Sandhya
 
 Evanjaline -  Zeenat
+
+Harshita - Rinki
+
+
 
 
 
