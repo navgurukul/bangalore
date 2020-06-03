@@ -41,23 +41,19 @@ Harshita :- Zeenat
 
 Shweta :- Sabana ,Rabiya
 
-Apeksha :- Rupali
+Apeksha :- Rupali, Shahnaaz 
 
 Rinki :- New Shubhangi 
 
-Anurag :- Swati, New Rani 
+Anurag :- Swati, New Rani, Soniya 
 
-Poonam :- Salomi 
-
-Sanjeev :-  Shahnaaz, 
-
-Ravina :- New Sandhya, Soniya
+Poonam :- Salomi, Sana 
 
 Neha :- Praveen 
 
-Priya Mishra :- Sana
+Priya Mishra :- 
 
-Rashmi :- Yashshwi
+Rashmi :-New Sandhya
 
 Shubhangi :- Evanjaline
 
